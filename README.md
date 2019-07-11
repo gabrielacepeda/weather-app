@@ -1,6 +1,7 @@
 # weather-app
 
 Weather app with darksky api.
+![weather app preview](https://github.com/gabrielacepeda/weather-app/blob/master/landing.png
 
 A simple app that displays the current weather based on your location.
 
